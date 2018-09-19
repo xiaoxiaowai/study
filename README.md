@@ -7,4 +7,4 @@
   var a;
   alert(typeof a); //undefined 
   alert(typeof b); //undefined
-"
+
